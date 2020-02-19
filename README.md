@@ -20,6 +20,8 @@ takeData.json: takeData\[intended location\]\[zone\] gives the probability that 
 
 takeDataUpdatedZone.json: same as takeData.json but for updated zone
 
+## Zones
+
 Original Zone: <br>
 <pre>
 +---+-----------+---+ 
