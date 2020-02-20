@@ -9,6 +9,8 @@ pitchDataUpdatedZone.csv: corresponds to pitchData.csv but for the updated zone
 
 pitchData_rightHandedHitters.csv: data for each pitch for our selected pitchers and right handed hitters only (Original zone) 
 
+pitchData_rightHandedHitters_withBatterID.csv: same as pitchData_rightHandedHitters.csv but with batter ID (for stratifying data later)
+
 ### Swing JSONs
 swingData.json: Json that holds the chance of a hit, out, strike, and foul indexed by what kind of pitch and which part of the 
 zone the pitch ENDS UP in 
