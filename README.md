@@ -36,6 +36,11 @@ swingData_rightHand_belowAvg.json: same as swingData.json but for right handed h
 
 swingDataUpdatedZone.json: same as swingData.json but for updated zone
 
+swingData_allPitchers_aboveAvg.json: analogous to swingData_rightHand_aboveAvg.json but with all pitchers
+
+swingData_allPitchers_belowAvg.json: analogous to swingData_rightHand_belowAvg.json but with all pitchers
+
+
 ### Take JSONs
 takeData.json: takeData\[intended location\]\[zone\] gives the probability that a pitch for the intended location ends up in zone
 
