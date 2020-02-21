@@ -15,6 +15,10 @@ pitchData_rightHandedHitters_aboveAvgHitters.csv: same as pitchData_rightHandedH
 
 pitchData_rightHandedHitters_belowAvgHitters.csv: same as pitchData_rightHandedHitters.csv but for only hitters with avg < .250
 
+pitchData_AllPitchers.csv: analogous to pitchData.csv except with all pitchers
+
+pitchData_AllPitchers_withBatterID.csv: analogous to pitchData_rightHandedHitters_withBatterID.csv
+
 ### Swing JSONs
 swingData.json: Json that holds the chance of a hit, out, strike, and foul indexed by what kind of pitch and which part of the 
 zone the pitch ENDS UP in 
