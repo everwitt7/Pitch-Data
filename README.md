@@ -19,6 +19,11 @@ pitchData_AllPitchers.csv: analogous to pitchData.csv except with all pitchers
 
 pitchData_AllPitchers_withBatterID.csv: analogous to pitchData_rightHandedHitters_withBatterID.csv
 
+pitchData_allPitchers_aboveAvgHitters.csv: analogous to pitchData_rightHandedHitters_aboveAvgHitters.csv but with all pitchers
+
+pitchData_allPitchers_belowAvgHitters.csv: analogous to pitchData_rightHandedHitters_belowAvgHitters.csv but with all pitchers
+
+
 ### Swing JSONs
 swingData.json: Json that holds the chance of a hit, out, strike, and foul indexed by what kind of pitch and which part of the 
 zone the pitch ENDS UP in 
