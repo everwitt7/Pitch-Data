@@ -36,6 +36,8 @@ swingData_rightHand_belowAvg.json: same as swingData.json but for right handed h
 
 swingDataUpdatedZone.json: same as swingData.json but for updated zone
 
+swingData_allPitchers.json: analogous to swingData_rightHand but with all pitchers. 
+
 swingData_allPitchers_aboveAvg.json: analogous to swingData_rightHand_aboveAvg.json but with all pitchers
 
 swingData_allPitchers_belowAvg.json: analogous to swingData_rightHand_belowAvg.json but with all pitchers
