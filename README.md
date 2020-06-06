@@ -27,7 +27,6 @@ take_data_error_model.json: current pitcher error model to determine actual from
 
 
 ## Zones
-Original Zone: <br>
 <pre>
 +---+-----------+---+
 |9  |     10    | 11|
