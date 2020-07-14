@@ -11,6 +11,13 @@ all_pitchers_rhh_swing_data.csv.csv: current swing data for all pitchers and rhh
 
 all_pitchers_rhh_take_data.csv.csv: current take data for all pitchers and rhh
 
+raw_tensor_data_swing.csv: raw data needed to create tensors, had to split into swing and take to meet file size requirements
+
+raw_tensor_data_take.csv: raw data needed to create tensors, had to split into swing and take to meet file size requirements
+
+### General JSONs
+train_val_test_indices.json: json file that contains the indices to use to create our training set, validation set, and test set
+
 
 ### Swing JSONs
 swingTransition_allPitchers_newZones.json: old transition functions for all pitchers and rhh count unconditional
