@@ -15,6 +15,12 @@ raw_tensor_data_swing.csv: raw data needed to create tensors, had to split into 
 
 raw_tensor_data_take.csv: raw data needed to create tensors, had to split into swing and take to meet file size requirements
 
+batter_obp.csv: batter id to their empirical obp
+
+pitcher_obp_against.csv: pitcher id to their opposing obp 
+
+batter_pitcher_matchup_obp.csv: obp of all matchups
+
 ### General JSONs
 train_val_test_indices.json: json file that contains the indices to use to create our training set, validation set, and test set
 
