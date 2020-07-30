@@ -28,6 +28,8 @@ batter_pitcher_matchup_obp.csv: obp of all matchups
 ### General JSONs
 train_val_test_indices.json: json file that contains the indices to use to create our training set, validation set, and test set
 
+train_val_test_indices_with_2019.json: json file that contains the indices to use to create our training set, validation set, and test set for dataset that includes 2019 season
+
 test_set_random.json: a test set that contains a pitcher id, batter id, the empirical matchup obp, and a string of the pitcher vs batter
 
 test_set_chosen_obp_range.json: a test set by choosing pitchers with opposing obp between 0.295 and 0.3, choosing batters with obp in same range, then selecting all matchups between those batters and pitchers with the empirical obp of that matchup. An entry also exists with the average obp of all the matchups in the set. 
