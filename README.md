@@ -15,6 +15,10 @@ raw_tensor_data_swing.csv: raw data needed to create tensors, had to split into 
 
 raw_tensor_data_take.csv: raw data needed to create tensors, had to split into swing and take to meet file size requirements
 
+2019_raw_tensor_data_swing.csv: raw data needed to create tensors, had to split into swing and take to meet file size requirements. only 2019 data
+
+2019_raw_tensor_data_take.csv: raw data needed to create tensors, had to split into swing and take to meet file size requirements. only 2019 data
+
 batter_obp.csv: batter id to their empirical obp
 
 pitcher_obp_against.csv: pitcher id to their opposing obp 
